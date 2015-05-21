@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{example.html}
 # jemdoc: nodefaultcss, addcss{default.css}
-= jemdoc -- example page
-[kabirc.github.io Kabir Chandrasekher] ([kabirc@berkeley.edu])
+= Kabir Chandrasekher 
 
-If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used.
+~~~
+{}{img_left}{kabirc.jpg}{alt text}{400}{400}{IMGLINKTARGET}
+Ordinary jemdoc markup goes here.
+~~~
