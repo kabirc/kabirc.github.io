@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{example.html}
+# jemdoc: nodefaultcss, addcss{default.css}
 = jemdoc -- example page
 [kabirc.github.io Kabir Chandrasekher] ([kabirc@berkeley.edu])
 
